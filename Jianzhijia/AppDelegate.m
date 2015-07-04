@@ -24,7 +24,7 @@
     self.window.rootViewController = resignVC;
     [self.window makeKeyAndVisible];
     
-    
+    NSLog(@"111");
     return YES;
 }
 
